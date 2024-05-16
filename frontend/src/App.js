@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      hello
+        backend address = {process.env.REACT_APP_SERVER}
     </div>
   );
 }
